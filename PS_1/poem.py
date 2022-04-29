@@ -1,0 +1,9 @@
+a = """Johny, Johny,
+Yes papa?
+Eating sugar?
+No papa.
+Telling lies?
+No papa.
+Open your mouth
+Ha ha ha!"""
+print(a)
