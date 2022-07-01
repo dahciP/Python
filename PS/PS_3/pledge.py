@@ -1,0 +1,2 @@
+a = "\t\t\tIndia is my country.\n\t\tAll Indians are my brothers and sisters.\n\tI love my country and I am proud of its rich and varied heritage.\n\t\tI shall always strive to be worthy of it.\nI shall give my parents, teachers, and all elders respect and treat everyone with courtesy.\n\t\tTo my country and my people, I pledge my devotion.\n\tIn their well-being and prosperity alone lies my happiness, Jai Hind" 
+print(a)
